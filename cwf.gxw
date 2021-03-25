@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="cp1252"?>
+<!DOCTYPE gxw SYSTEM "grass-gxw.dtd">
+<gxw>
+    <layer_manager dim="-32000,-32000,237,39">
+    </layer_manager>
+    <display name="Display 1" render="1" mode="0" showCompExtent="1" alignExtent="1" constrainRes="0" showStatusbar="1" showToolbars="1" dim="633,0,654,687" extent="441228.098948,306222.584659,458962.841581,322618.856149,0.000000,1.000000" tbres="1.000000" viewMode="2d" >
+        <layer type="raster" name="cost@abdullahi" checked="1" opacity="1.000000">
+            <selected />
+            <task name="d.rast">
+                <parameter name="map">
+                    <value>cost@abdullahi</value>
+                </parameter>
+            </task>
+        </layer>
+        <layer type="raster" name="finalpaths@abdullahi" checked="0" opacity="1.000000">
+            <task name="d.rast">
+                <parameter name="map">
+                    <value>finalpaths@abdullahi</value>
+                </parameter>
+            </task>
+        </layer>
+        <layer type="raster" name="all@abdullahi" checked="0" opacity="1.000000">
+            <task name="d.rast">
+                <parameter name="map">
+                    <value>all@abdullahi</value>
+                </parameter>
+            </task>
+        </layer>
+        <layer type="raster" name="Ttcost@abdullahi" checked="0" opacity="1.000000">
+            <task name="d.rast">
+                <parameter name="map">
+                    <value>Ttcost@abdullahi</value>
+                </parameter>
+            </task>
+        </layer>
+        <layer type="raster" name="toadscost@abdullahi" checked="0" opacity="1.000000">
+            <task name="d.rast">
+                <parameter name="map">
+                    <value>toads@abdullahi</value>
+                </parameter>
+            </task>
+        </layer>
+        <layer type="raster" name="otterscost@abdullahi" checked="0" opacity="1.000000">
+            <task name="d.rast">
+                <parameter name="map">
+                    <value>ottes@abdullahi</value>
+                </parameter>
+            </task>
+        </layer>
+        <layer type="raster" name="skylarkcost@abdullahi" checked="0" opacity="1.000000">
+            <task name="d.rast">
+                <parameter name="map">
+                    <value>skylark@abdullahi</value>
+                </parameter>
+            </task>
+        </layer>
+        <layer type="raster" name="orchidcost@abdullahi" checked="0" opacity="1.000000">
+            <task name="d.rast">
+                <parameter name="map">
+                    <value>orchid@abdullahi</value>
+                </parameter>
+            </task>
+        </layer>
+        <layer type="raster" name="path22@abdullahi" checked="1" opacity="1.000000">
+            <task name="d.rast">
+                <parameter name="map">
+                    <value>path22@abdullahi</value>
+                </parameter>
+            </task>
+        </layer>
+        <layer type="raster" name="finalpath2@abdullahi" checked="0" opacity="1.000000">
+            <task name="d.rast">
+                <parameter name="map">
+                    <value>finalpath2@abdullahi</value>
+                </parameter>
+            </task>
+        </layer>
+        <layer type="raster" name="finalpath1@abdullahi" checked="0" opacity="1.000000">
+            <task name="d.rast">
+                <parameter name="map">
+                    <value>finalpath1@abdullahi</value>
+                </parameter>
+            </task>
+        </layer>
+        <layer type="raster" name="path11@abdullahi" checked="1" opacity="1.000000">
+            <task name="d.rast">
+                <parameter name="map">
+                    <value>path11@abdullahi</value>
+                </parameter>
+            </task>
+        </layer>
+        <layer type="raster" name="paths@abdullahi" checked="1" opacity="1.000000">
+            <task name="d.rast">
+                <parameter name="map">
+                    <value>paths@abdullahi</value>
+                </parameter>
+            </task>
+        </layer>
+        <layer type="raster" name="path2@abdullahi" checked="1" opacity="1.000000">
+            <task name="d.rast">
+                <parameter name="map">
+                    <value>path2@abdullahi</value>
+                </parameter>
+            </task>
+        </layer>
+        <layer type="raster" name="costdist22@abdullahi" checked="1" opacity="1.000000">
+            <task name="d.rast">
+                <parameter name="map">
+                    <value>costdist22@abdullahi</value>
+                </parameter>
+            </task>
+        </layer>
+        <layer type="raster" name="roads@PERMANENT" checked="0" opacity="1.000000">
+            <task name="d.rast">
+                <parameter name="map">
+                    <value>roads@PERMANENT</value>
+                </parameter>
+            </task>
+        </layer>
+        <layer type="raster" name="path1@abdullahi" checked="0" opacity="1.000000">
+            <task name="d.rast">
+                <parameter name="map">
+                    <value>path1@abdullahi</value>
+                </parameter>
+            </task>
+        </layer>
+        <layer type="raster" name="costdist1@abdullahi" checked="0" opacity="1.000000">
+            <task name="d.rast">
+                <parameter name="map">
+                    <value>costdist1@abdullahi</value>
+                </parameter>
+            </task>
+        </layer>
+        <layer type="raster" name="landcovercost@abdullahi" checked="0" opacity="1.000000">
+            <task name="d.rast">
+                <parameter name="map">
+                    <value>landcovercost@abdullahi</value>
+                </parameter>
+            </task>
+        </layer>
+        <layer type="raster" name="elevcost@abdullahi" checked="0" opacity="1.000000">
+            <task name="d.rast">
+                <parameter name="map">
+                    <value>elevcost@abdullahi</value>
+                </parameter>
+            </task>
+        </layer>
+        <layer type="raster" name="landcov@PERMANENT" checked="0" opacity="1.000000">
+            <task name="d.rast">
+                <parameter name="map">
+                    <value>landcov@PERMANENT</value>
+                </parameter>
+            </task>
+        </layer>
+        <layer type="raster" name="elev1@abdullahi" checked="1" opacity="1.000000">
+            <task name="d.rast">
+                <parameter name="map">
+                    <value>elev1@abdullahi</value>
+                </parameter>
+            </task>
+        </layer>
+        <layer type="raster" name="image@PERMANENT" checked="1" opacity="1.000000">
+            <task name="d.rast">
+                <parameter name="map">
+                    <value>image@PERMANENT</value>
+                </parameter>
+            </task>
+        </layer>
+    </display>
+</gxw>
